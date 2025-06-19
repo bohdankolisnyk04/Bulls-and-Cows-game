@@ -1,4 +1,4 @@
-from game import start_game
+from gui import run
 
 if __name__ == "__main__":
-    start_game()
+    run()
